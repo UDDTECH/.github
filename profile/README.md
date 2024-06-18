@@ -18,7 +18,7 @@
   </tr>
 
   <tr>
-    <td align="center"><a href="#"><img style="border-radius: 50%;" src="#" width="100px;" alt=""/><br /><sub><b>Manuela Otavio</b></sub></a><br /><a href="#/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="#"><img style="border-radius: 50%;" src="https://i.ibb.co/L5Ckvqk/Image-2.png" width="100px;" alt=""/><br /><sub><b>Manuela Otavio</b></sub></a><br /><a href="#/" title="Rocketseat">🚀</a></td>
   </tr>
 </table>
 
